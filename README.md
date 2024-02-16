@@ -13,7 +13,7 @@ The dataset used for this project is `IFND.csv`, which contains statements label
 
 ## Usage
 1. Ensure you have the dataset `IFND.csv` available.
-2. Run the script `fake_news_detection.py`.
+2. Run the script `main.py`.
 3. The script will preprocess the data, train the Multinomial Naive Bayes classifier, make predictions on the test data, and evaluate the model's accuracy.
 4. The accuracy and classification report will be printed to the console.
 
